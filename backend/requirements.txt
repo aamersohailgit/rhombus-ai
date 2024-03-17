@@ -1,0 +1,8 @@
+asgiref==3.7.2
+django>=3.2,<4
+djangorestframework>=3.12
+pytz==2024.1
+sqlparse==0.4.4
+pandas
+numpy
+django-cors-headers
